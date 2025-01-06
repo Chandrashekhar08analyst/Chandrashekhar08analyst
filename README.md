@@ -37,7 +37,7 @@ I specialize in transforming raw data into actionable insights using tools like 
 ## 📫 Connect with Me
 
 - **LinkedIn**: [Chandrashekhar Pathak](https://www.linkedin.com/in/cspathak08)
-- **Email**: [chamshekar.pathak@email.com](mailto:chamshekar.pathak@email.com)
+- **Email**: [chandrashekhar](pathakcg22@gmail.com)
 
 ---
 
