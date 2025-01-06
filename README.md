@@ -2,7 +2,9 @@
 
 ### Data Analyst | SQL | Power BI | Python | Excel | Google Sheets
 
-I specialize in transforming raw data into actionable insights using tools like **SQL**, **Power BI**, **Python**, **Excel**, and **Google Sheets**. I focus on analyzing data, visualizing trends, and building reports that help businesses make informed decisions.
+I am an aspiring **Data Analyst** actively searching for job opportunities. I specialize in transforming raw data into actionable insights using tools like **SQL**, **Power BI**, **Python**, **Excel**, and **Google Sheets**. I have worked on projects involving customer segmentation, sales forecasting, and performance analysis.
+
+If you are looking for a data-driven individual who can provide valuable insights to improve decision-making, I would love to connect!
 
 ---
 
